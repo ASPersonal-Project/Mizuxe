@@ -6,13 +6,24 @@
     min-height: 600px;
     /* position: relative; */
 }
-#showcase .primary-overlay{
+
+/* #showcase .primary-overlay{
     background: rgba(0, 0, 255, 0.5);
-    /* min-height: 700px; */
+     min-height: 700px; 
     width: 100%;
     height: 100%;
-    /* position: absolute;
+    position: absolute;
    
     top: 0;
-    left: 0; */
+    left: 0;} */
+
+@media(max-width:768px){
+    .mb-resp{
+        margin-bottom: 1rem;
+
+    }
+
 }
+
+
+
