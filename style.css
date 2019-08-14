@@ -6,6 +6,9 @@
     min-height: 600px;
     /* position: relative; */
 }
+.fa{
+    padding: 5px;
+}
 
 /* #showcase .primary-overlay{
     background: rgba(0, 0, 255, 0.5);
