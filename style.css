@@ -10,6 +10,15 @@
     padding: 5px;
 }
 
+#authors .card :hover {
+    background: blue;
+    color: white;
+}
+#authors .fa{
+    color: white;
+}
+
+
 /* #showcase .primary-overlay{
     background: rgba(0, 0, 255, 0.5);
      min-height: 700px; 
